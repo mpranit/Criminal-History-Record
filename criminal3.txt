@@ -1,0 +1,8 @@
+raghu-->{age-30}-->{theft,smuggling,kidnaping}-->{bounty-1,00,000}
+vikram-->{age-27}-->{murder,kidnaping,blackmail}-->{bounty-70,000}
+nikhil-->{age-22}-->{theft(2)}-->{bounty-5,000}
+nikunjh-->{age-22}-->{murder}-->{bounty-30,000}
+jaiswal-->{age-40}-->{murder,kidnaping}-->{bounty-30,000}
+satvik-->{age-35}-->{smugling,blackmailing}-->{bounty-30,000}
+mithun-->{age-27}-->{smugling}-->{bounty-10,000}
+sashikant-->{age-30}-->{murder}-->{bounty-20,000}
